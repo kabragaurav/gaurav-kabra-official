@@ -1,8 +1,7 @@
 ### Voila! 👋
 
 
-- 🔭 I’m currently working as Associate Member of Technical Staff for Salesforce, Hyderabad.
-- 💬 Ask me about anything. I am always ready to help at my best :D
+- 🔭 I’m currently working as Associate MTS for Salesforce, Hyderabad.
 - 📫 Become my connection here : https://www.linkedin.com/in/gaurav-kabra/
 - 💬 Ask me here : gauravkabra.official@gmail.com
 - 😄 Pronouns: He/ His/ Him
