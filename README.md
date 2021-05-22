@@ -1,15 +1,14 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Gaurav Kabra! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.salesforce.com/">Salesforce</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h4>Gaurav Kabra | Associate MTS @<a href="https://www.salesforce.com/">Salesforce - World's #1 CRM</a> <img src="https://media.giphy.com/media/2hna1X2GUISud89rut/giphy.gif" width="30"> | Ex-Intern @<a href="https://www.fidelity.com/">Fidelity Investments</a> | B.Tech. CSE Graduate 2020 <a href="http://www.mnit.ac.in/">NIT Jaipur</a> </h4>
+<img align='right' src="https://media.giphy.com/media/KeQf3wNoXaft4IhWcW/giphy.gif" width="230">
 
-- 🔭 I’m currently working as Associate MTS for Salesforce, Hyderabad.
-- 📫 Become my connection here : https://www.linkedin.com/in/gaurav-kabra/
-- 🌐 Visit my personal website : https://sites.google.com/view/gaurav-kabra/
-- 💬 Ask me here : gauravkabra.official@gmail.com
-- 😄 Pronouns: He/ His/ Him
+- Currently working as Associate MTS for Salesforce, Hyderabad. <img src="https://media.giphy.com/media/cjhv5pRzYVp8aiOILB/giphy.gif" width="50">
+- Connect here : https://www.linkedin.com/in/gaurav-kabra/  <img src="https://media.giphy.com/media/ZBnqejniJd8HNbWtpp/giphy.gif" width="100">
+- Visit : https://sites.google.com/view/gaurav-kabra/
+- Contact : gauravkabra.official@gmail.com
+- Pronouns: He/ His/ Him
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/L0YoyVk4NjySy3hmNj/giphy.gif" width="230"> 
+<!--<em><br><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>-->
 
 <!--
 **gaurav-kabra-official/gaurav-kabra-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
