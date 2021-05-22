@@ -1,4 +1,4 @@
-<h4>Gaurav Kabra | Associate MTS @<a href="https://www.salesforce.com/">Salesforce - World's #1 CRM</a> <img src="https://media.giphy.com/media/2hna1X2GUISud89rut/giphy.gif" width="30"> | Ex-Intern @<a href="https://www.fidelity.com/">Fidelity Investments</a> | B.Tech. CSE Graduate 2020 <a href="http://www.mnit.ac.in/">NIT Jaipur</a> </h4>
+<h2>Gaurav Kabra | Associate MTS @<a href="https://www.salesforce.com/">Salesforce - World's #1 CRM</a> <img src="https://media.giphy.com/media/2hna1X2GUISud89rut/giphy.gif" width="30"> | Ex-Intern @<a href="https://www.fidelity.com/">Fidelity Investments</a> | B.Tech. CSE Graduate 2020 <a href="http://www.mnit.ac.in/">NIT Jaipur</a> </h2>
 <img align='right' src="https://media.giphy.com/media/KeQf3wNoXaft4IhWcW/giphy.gif" width="230">
 
 - Currently working as Associate MTS for Salesforce, Hyderabad. <img src="https://media.giphy.com/media/cjhv5pRzYVp8aiOILB/giphy.gif" width="50">
