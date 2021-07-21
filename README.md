@@ -1,11 +1,25 @@
-<h2>Gaurav Kabra | Associate MTS @<a href="https://www.salesforce.com/">Salesforce - World's #1 CRM</a><!--<img src="https://media.giphy.com/media/L0YoyVk4NjySy3hmNj/giphy.gif" width="50">--><!-- <img src="https://media.giphy.com/media/2hna1X2GUISud89rut/giphy.gif" width="30"> --> | Ex-Intern @<a href="https://www.fidelity.com/">Fidelity Investments</a> | B.Tech. CSE Graduate 2020 <a href="http://www.mnit.ac.in/">NIT Jaipur</a> </h2>
-<img align='right' src="https://media.giphy.com/media/KeQf3wNoXaft4IhWcW/giphy.gif" width="200">
+### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- Currently working as Associate MTS for Salesforce, Hyderabad. <!--<img src="https://media.giphy.com/media/cjhv5pRzYVp8aiOILB/giphy.gif" width="50">-->
-- Connect here : https://www.linkedin.com/in/gaurav-kabra/ <!-- <img src="https://media.giphy.com/media/ZBnqejniJd8HNbWtpp/giphy.gif" width="100"> -->
-- Visit : https://sites.google.com/view/gaurav-kabra/
-- Contact : gauravkabra.official@gmail.com
-- Pronouns: He/ His/ Him
+<h3><a href="https://www.linkedin.com/in/gaurav-kabra/">
+  <img align="left" alt="Gaurav's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>Gaurav Kabra | Associate MTS @<a href="https://www.salesforce.com/">Salesforce - World's #1 CRM</a><!--<img src="https://media.giphy.com/media/L0YoyVk4NjySy3hmNj/giphy.gif" width="50">--><!-- <img src="https://media.giphy.com/media/2hna1X2GUISud89rut/giphy.gif" width="30"> --> | Ex-Intern @<a href="https://www.fidelity.com/">Fidelity Investments</a> | B.Tech. CSE Graduate 2020 <a href="http://www.mnit.ac.in/">NIT Jaipur</a> </h3>
+
+<img align='right' src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400">
+
+- Currently working with Salesforce as Associate Memeber of Technical Staff (AMTS), Hyderabad. <!--<img src="https://media.giphy.com/media/cjhv5pRzYVp8aiOILB/giphy.gif" width="50">-->
+- Connect with me : https://www.linkedin.com/in/gaurav-kabra/ <!-- <img src="https://media.giphy.com/media/ZBnqejniJd8HNbWtpp/giphy.gif" width="100"> -->
+- Mail : gauravkabra.official@gmail.com
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gaurav-kabra-official&show_icons=true&theme=gotham" alt="Gaurav's Github Stats" />
 
 <!--<img src="https://media.giphy.com/media/L0YoyVk4NjySy3hmNj/giphy.gif" width="230"> -->
 <!--<em><br><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>-->
