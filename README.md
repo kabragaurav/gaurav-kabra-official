@@ -4,7 +4,7 @@
   <img align="left" alt="Gaurav's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>Gaurav Kabra | Associate MTS @<a href="https://www.salesforce.com/">Salesforce - World's #1 CRM</a><!--<img src="https://media.giphy.com/media/L0YoyVk4NjySy3hmNj/giphy.gif" width="50">--><!-- <img src="https://media.giphy.com/media/2hna1X2GUISud89rut/giphy.gif" width="30"> --> | Ex-Intern @<a href="https://www.fidelity.com/">Fidelity Investments</a> | B.Tech. CSE Graduate 2020 <a href="http://www.mnit.ac.in/">NIT Jaipur</a> </h3>
 
-<img align='right' src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400">
+<img align='right' src="https://github.com/gaurav-kabra-official/gaurav-kabra-official/blob/master/coding.gif?raw=true" width="400">
 
 - Currently working with Salesforce as Associate Memeber of Technical Staff (AMTS), Hyderabad. <!--<img src="https://media.giphy.com/media/cjhv5pRzYVp8aiOILB/giphy.gif" width="50">-->
 - Connect with me : https://www.linkedin.com/in/gaurav-kabra/ <!-- <img src="https://media.giphy.com/media/ZBnqejniJd8HNbWtpp/giphy.gif" width="100"> -->
