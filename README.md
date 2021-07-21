@@ -6,7 +6,7 @@
 
 <img align='right' src="https://github.com/gaurav-kabra-official/gaurav-kabra-official/blob/master/coding.gif?raw=true" width="400">
 
-- Currently working with Salesforce as Associate Memeber of Technical Staff (AMTS), Hyderabad. 
+- Currently working with **Salesforce** as Associate Memeber of Technical Staff (AMTS), Hyderabad. 
 - Connect with me : https://www.linkedin.com/in/gaurav-kabra/
 - Mail : gauravkabra.official@gmail.com
 
